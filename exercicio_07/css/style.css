@@ -1,0 +1,17 @@
+table {
+    margin: 25px auto;
+    border-collapse: collapse;
+    width: 600px;
+    height: 400px;
+}
+
+th, td {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.cabecalho {
+    background-color: #027C31;
+    color: white;
+}
